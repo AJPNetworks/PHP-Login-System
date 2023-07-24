@@ -1,0 +1,19 @@
+{
+    "name": "ajpnetworks/php-login-system",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+    },
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Ajpnetworks\\PhpLoginSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AJPNetworks",
+            "email": "alexander@ajp.network"
+        }
+    ]
+}
